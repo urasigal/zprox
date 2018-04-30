@@ -2,8 +2,7 @@ package zixi.xcoder.zprox;
 
 import org.eclipse.jetty.server.Server;
 
-public class App 
-{
+public class App {
     public static void main( String[] args )
     {
     	try {
