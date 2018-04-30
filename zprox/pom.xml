@@ -21,5 +21,22 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+		  <groupId>com.zixi.drivers</groupId>
+		  <artifactId>drivers</artifactId>
+		  <version>0.0.1-SNAPSHOT</version>
+	  </dependency>
+    <!-- https://mvnrepository.com/artifact/org.eclipse.jetty/jetty-server -->
+	<dependency>
+	    <groupId>org.eclipse.jetty</groupId>
+	    <artifactId>jetty-server</artifactId>
+	    <version>9.4.9.v20180320</version>
+	</dependency>
+	<!-- https://mvnrepository.com/artifact/org.json/json -->
+	<dependency>
+	    <groupId>org.json</groupId>
+	    <artifactId>json</artifactId>
+	    <version>20180130</version>
+	</dependency>
   </dependencies>
 </project>
